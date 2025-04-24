@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**alisher314/alisher314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python developer currently learning **Data Science** and building **Telegram bots**.  
+Exploring the world of programming one project at a time.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages**: Python
+- **Tools & Libraries**: aiogram, SQLite, Git, Jupyter Notebook
+- **Currently learning**: pandas, NumPy, scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Goals
+- Build my first Telegram bot project
+- Start a portfolio of practical Python projects
+- Dive deeper into data analysis and machine learning
+
+Thanks for visiting my profile! Stay tuned — more coming soon...
